@@ -9,5 +9,7 @@ void main() {
     } else {
       print(a);
     }
+    print("Hello Bhai");
+    print("Hello");
   }
 }
